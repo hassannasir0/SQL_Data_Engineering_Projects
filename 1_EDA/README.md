@@ -1,6 +1,6 @@
 # 🔍 Exploratory Data Analysis w/ SQL: Data Engineering Job Market
 
-![EDA Project Overview](../Images\1_1_Project1_EDA.png)
+![EDA Project Overview](../Images/1_1_Project1_EDA.png)
 
 An independent SQL portfolio project analyzing the data engineering job market using real-world job posting data. It demonstrates my ability to **write production-quality analytical SQL, design multi-table relational queries, and turn raw data into actionable market insights**.
 
@@ -31,7 +31,7 @@ Data engineers and market analysts need to answer strategic career and architect
 
 This project analyzes a **data warehouse** built using a star schema design. The warehouse structure consists of:
 
-![Data Warehouse Schema](../Images\1_2_Data_Warehouse.png)
+![Data Warehouse Schema](../Images/1_2_Data_Warehouse.png)
 
 - **Fact Table:** `job_postings_fact` - Central table containing job posting details (job titles, locations, salaries, dates, remote status)
 - **Dimension Tables:** 
